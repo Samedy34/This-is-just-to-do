@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://samedy34.github.io/This-is-just-to-do/",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc && vite build",
